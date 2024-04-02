@@ -57,7 +57,7 @@ The structure of direcoty
  - The notebooks are self-contained and one should be able to run without any extra input. 
 - Each notebook contains information about the purpose and produced output.
 
-## Data loaction 
+## Data location 
 
 - All input data is read from the NCI WeatherBench under the `wb00` project (`/g/data/wb00/NCI-Weatherbench/`)
 - All created models and predictions are stored in the following directory: `/scratch/vp91/<USER>/NCI-DLWP-CS`. The `vp91` is a training project and is cleaned at regular intervals. If you want to save your data then copy it to a safe location.
