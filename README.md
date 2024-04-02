@@ -1,8 +1,8 @@
 # NCI-DWLP-CS
 
-This repository contains notebooks to train the DWLP-CS models with the NCI WeatherBench, which is a Deep learning benchmark developed at NCI, Australia. 
+This repository contains notebooks to train the DWLP-CS model with the NCI WeatherBench, which is a Deep learning benchmark developed at NCI, Australia (https://nci.org.au/). 
 
-Details about the model can be found in the paper: 
+Details about the DWLP-CS model can be found in the paper: 
 https://doi.org/10.1029/2020MS002109
 
 Details about the NCI WeatherBench can be found here: https://geonetwork.nci.org.au/geonetwork/srv/eng/catalog.search#/metadata/f8295_5164_0873_0706  
@@ -43,7 +43,7 @@ Jobfs size: 200GB
 
 ## Notebooks
 
-The structure of the direcoty 
+The structure of direcoty 
 
 ```bash
 .
@@ -54,8 +54,8 @@ The structure of the direcoty
 ├── LICENSE
 └── README.md
 ```
- - The notebooks are self-contained and one should be able to run with any extra input. 
-- Each notebook contains information about the purpose and what output to expect.
+ - The notebooks are self-contained and one should be able to run without any extra input. 
+- Each notebook contains information about the purpose and produced output.
 
 ## Data loaction 
 
@@ -66,4 +66,4 @@ The structure of the direcoty
 ## Contact us
 
 - All the code, data, and Notebooks in this repository are maintained by the NCI data and software modernisation team (https://opus.nci.org.au/display/DAE/Specialised+Environments+Home). 
-- Please, contact the NCI data and software modernization team for any suggestions or bug reports. 
+- Please, contact us for any suggestion or bug report. 
