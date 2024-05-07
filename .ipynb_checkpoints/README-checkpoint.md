@@ -36,7 +36,7 @@ Project: <Choose one that has enough resources>
 Storage: gdata/dk92+gdata/z00+gdata/wb00+scratch/vp91+<All other storage that you need>
 
 Module directories: /g/data/dk92/apps/Modules/modulefiles/
-Modules: NCI-ai-ml/23.10 nci-dlwp-cs/2024.03.29 
+Modules: nci-dlwp-cs/2024.04.30 
 Jobfs size: 200GB
 ```
 3) From the ARE instance, navigate to the notebook's location and run them individually.
@@ -57,7 +57,7 @@ The structure of direcoty
  - The notebooks are self-contained and one should be able to run without any extra input. 
 - Each notebook contains information about the purpose and produced output.
 
-## Data loaction 
+## Data location 
 
 - All input data is read from the NCI WeatherBench under the `wb00` project (`/g/data/wb00/NCI-Weatherbench/`)
 - All created models and predictions are stored in the following directory: `/scratch/vp91/<USER>/NCI-DLWP-CS`. The `vp91` is a training project and is cleaned at regular intervals. If you want to save your data then copy it to a safe location.

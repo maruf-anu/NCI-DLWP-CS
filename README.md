@@ -36,7 +36,7 @@ Project: <Choose one that has enough resources>
 Storage: gdata/dk92+gdata/z00+gdata/wb00+scratch/vp91+<All other storage that you need>
 
 Module directories: /g/data/dk92/apps/Modules/modulefiles/
-Modules: NCI-ai-ml/23.10 nci-dlwp-cs/2024.03.29 
+Modules: nci-dlwp-cs/2024.04.30 
 Jobfs size: 200GB
 ```
 3) From the ARE instance, navigate to the notebook's location and run them individually.
